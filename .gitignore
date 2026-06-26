@@ -1,0 +1,27 @@
+# Build directories
+build/
+
+# Executables
+*.out
+*.exe
+test
+camera_test
+pure_pursuit_test
+
+# Object files
+*.o
+*.so
+*.a
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
